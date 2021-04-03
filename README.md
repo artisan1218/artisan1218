@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chengyuan Zhou, currently a graduate student majoring in M.S. in Applied Data Science at University of Southern California.
-- 👀 I’m actively looking for SWE and Data Science internship. Please go to my [LinkedIn page](https://www.linkedin.com/in/chengyuan-zhou-3559b4136/) for more information 
+- 👀 I’m actively looking for SWE and Data Science internship. Please go to my [LinkedIn page](https://www.linkedin.com/in/chengyuan-zhou-3559b4136/) for more information.
 - 📫 I'm reachable via personal email: zcy1218@gmail.com
 
 <!---
